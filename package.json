@@ -1,0 +1,13 @@
+{
+  "name": "@yofun/assets",
+  "version": "1.0.0",
+  "repository": "https://github.com/Yofun/assets.git",
+  "author": "Yofun <yofun.he@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "alarm": "node ./alarm/index.js"
+  },
+  "devDependencies": {
+    "dayjs": "^1.11.10"
+  }
+}
